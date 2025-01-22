@@ -1,6 +1,6 @@
 ## link-tools工具箱
 
-link-tools为一款Windows GUI界面的渗透测试工具箱（bat启动器），支持拖拉新增工具（脚本、文件夹），支持自定义运行参数和备注，支持bat批量运行脚本，支持RapidScanner端口扫描结果服务指纹联动工具，可协助安全运维人员快速运行工具（脚本、文件夹），提高安全检测效率。
+link-tools为一款Windows GUI界面的渗透测试工具箱（仿rolan启动器），支持拖拉新增工具（脚本、文件夹），支持自定义运行参数和备注，支持bat批量运行脚本，支持RapidScanner端口扫描结果服务指纹联动工具，可协助安全运维人员快速运行工具（脚本、文件夹），提高安全检测效率。
 ![image](https://github.com/user-attachments/assets/5f12f86c-4527-4b7a-af30-bf3e12f08665)
 ## 使用方法：
 
