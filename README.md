@@ -64,11 +64,11 @@ tool.exe -l [target]
 #### 4.2 导入数据
 ![image](https://github.com/user-attachments/assets/6bb0895f-9035-4ea6-930b-4f4291f805c5)
 
+**处理后的端口数据保存到result目录下，二次导入数据可使用文件夹方式导入**
+
+![image](https://github.com/user-attachments/assets/39a791b8-cf64-4dc0-9f8e-5abb98ab372f)
 #### 4.3 展示数据
 ![image](https://github.com/user-attachments/assets/588129e6-0479-4024-996c-82ca968cf2b0)
-
-处理后的端口数据保存到result目录下，二次导入数据可使用文件夹方式导入
-![image](https://github.com/user-attachments/assets/39a791b8-cf64-4dc0-9f8e-5abb98ab372f)
 
 
 #### 4.4 工具联动
