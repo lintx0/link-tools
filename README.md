@@ -1,3 +1,18 @@
+## link-tools v1.1工具箱更新：
+1、新增AI+模块，支持3种模型连接方式（Deepseek Api、Siliconflow Api和Ollama本地部署接入），目前R1模型的Api不稳定，可以使用V3模型，效果也不错。
+
+2、支持提示词自定义增删查改。
+
+3、内置多条提示词（来自ChinaRan404师傅的DeepSeekSelfTool项目，超强）。
+
+4、AI+模块代码由Deepseek R1生成。
+
+5、Rolan+模块修复已知BUG，去除工具灰色标记代码。
+
+![image](https://github.com/user-attachments/assets/37d669c2-8e1c-4817-b97e-7f6ccf9c0537)
+![image](https://github.com/user-attachments/assets/794fe439-8c16-4db0-800c-a07b82a1530e)
+![image](https://github.com/user-attachments/assets/ecba6fe9-7c37-444c-9d4c-45cce258308a)
+
 ## link-tools工具箱
 
 link-tools为一款Windows GUI界面的渗透测试工具箱（仿rolan启动器），支持拖拉新增工具（脚本、文件夹），支持自定义运行参数和备注，支持bat批量运行脚本，支持RapidScanner端口扫描结果服务指纹联动工具，可协助安全运维人员快速运行工具（脚本、文件夹），提高安全检测效率。
