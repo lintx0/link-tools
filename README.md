@@ -1,7 +1,7 @@
 ## link-tools v1.1工具箱更新：
 1、新增AI+模块，支持3种模型连接方式（Deepseek Api、Siliconflow Api和Ollama本地部署接入），目前R1模型的Api不稳定，可以使用V3模型，效果也不错。
 
-2、支持提示词自定义增删查改。
+2、支持提示词自定义增删查改，可随时中止AI进行修改和完善提示词。
 
 3、内置多条提示词（来自ChinaRan404师傅的DeepSeekSelfTool项目，超强）。
 
