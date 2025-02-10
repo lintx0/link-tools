@@ -6,9 +6,9 @@
 
 3、其他说明：
 
- --由于流式输出，超时功能可能会失效，可自行中止。
+ -- 由于流式输出，超时功能可能会失效，可自行中止。
 
- --经测试可支持腾讯云API，对应修改key、api、model即可，其他厂商API自行测试。
+ -- 经测试可支持腾讯云API，对应修改key、api、model即可，其他厂商API自行测试。
 
 ![image](https://github.com/user-attachments/assets/4b4ad3b0-0f3b-4165-a8b4-c8d7a1721188)
 ![image](https://github.com/user-attachments/assets/d701ceb7-0878-49f3-8f08-1bbd6f70f718)
