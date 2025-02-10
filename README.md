@@ -5,7 +5,9 @@
 2、新增工具箱配置，允许自定义修改工具箱首页模块。
 
 3、其他说明：
+
 由于流式输出，超时功能可能会失效，可自行中止。
+
 经测试可支持腾讯云API，对应修改key、api、model即可，应该都是一样的，其他厂商API自行测试。
 
 ![image](https://github.com/user-attachments/assets/4b4ad3b0-0f3b-4165-a8b4-c8d7a1721188)
