@@ -1,3 +1,15 @@
+## link-tools v1.2工具箱更新：
+
+1、Deepseek官方API接口更新，同步新增自定义模型（原deepseek-chat为V3模型，deepseek-reasoner为R1模型）
+
+2、新增工具箱配置，允许自定义修改工具箱首页模块。
+
+3、其他说明：由于流式输出，超时功能可能会失效，可自行中止。
+
+![image](https://github.com/user-attachments/assets/4b4ad3b0-0f3b-4165-a8b4-c8d7a1721188)
+![image](https://github.com/user-attachments/assets/d701ceb7-0878-49f3-8f08-1bbd6f70f718)
+
+
 ## link-tools v1.1工具箱更新：
 1、新增AI+模块，支持3种模型连接方式（Deepseek Api、Siliconflow Api和Ollama本地部署接入），目前R1模型的Api不稳定，可以使用V3模型，效果也不错。
 
