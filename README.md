@@ -1,3 +1,34 @@
+## link-tools v1.3工具箱更新：
+
+1、使用OpenAI库，会话更流畅稳定，支持更多厂商（如DeepSeek、腾讯云、阿里云、硅基流动等，其他自测）
+
+2、支持自定义添加API模型，KEY置空为Ollama模式，如需快速配置可修改配置文件config/config_ai.ini后刷新导入
+
+3、优化临时中断对话代码，阻断流式输出，修复短时间中断和执行导致的会话受限问题
+
+4、增加输入内容实时tokens显示，合理控制输入内容长度
+![image](https://github.com/user-attachments/assets/0998f74e-0489-4d64-b5c6-52c25813efa7)
+![image](https://github.com/user-attachments/assets/d9694840-e264-4f70-9cce-d0ad401ecaab)
+
+其他说明：
+
+1、由于使用了OpenAi库，程序打包运行大小暴增，本次更新提供EXE版本并公开源码
+
+```
+python源码由python3.7编写：
+安装库：
+pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/ 
+启动工具箱
+python link-tools-v1.3.py
+```
+
+2、工具箱尝试采用模块化设计，包含正则、Rolan+、AI+三个模块，代码写的很烂，师傅们请见谅
+
+3、感谢师傅们的星星，交流、学习、有BUG、有建议欢迎师傅们滴滴
+
+![image](https://github.com/user-attachments/assets/3f3dabc2-a8fb-4de5-9c36-979cf0399480)
+
+
 ## link-tools v1.2工具箱更新：
 
 1、Deepseek官方API接口更新，同步新增自定义模型（原deepseek-chat为V3模型，deepseek-reasoner为R1模型）
