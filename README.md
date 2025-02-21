@@ -22,9 +22,9 @@ pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
 python link-tools-v1.3.py
 ```
 
-2、工具箱尝试采用模块化设计，包含正则、Rolan+、AI+三个模块，代码写的很烂，师傅们请见谅
+2、工具箱尝试采用模块化设计，包含正则、Rolan+、AI+三个模块，代码写得随意，师傅们请见谅
 
-3、感谢师傅们的星星，交流、学习、有BUG、有建议欢迎师傅们滴滴
+3、感谢师傅们的星星，如果有BUG、有建议，交流学习欢迎师傅们滴滴
 
 ![image](https://github.com/user-attachments/assets/3f3dabc2-a8fb-4de5-9c36-979cf0399480)
 
