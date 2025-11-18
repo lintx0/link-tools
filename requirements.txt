@@ -1,4 +1,0 @@
-PyQt5
-openai
-xlsxwriter
-requests
